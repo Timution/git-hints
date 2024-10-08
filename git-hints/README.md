@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Ќавигаци€
 * pwd (от англ. print working directory, Ђпоказать рабочую папкуї) Ч покажи, в какой € папке;
 * ls (от англ. list directory contents, Ђотобразить содержимое директорииї) Ч покажи файлы и папки в текущей папке;
@@ -22,4 +23,7 @@
 * rmdir images (от англ. remove directory, Ђудалить директориюї) Ч удали папку images;
 * rm -r second-project (от англ. remove, Ђудалитьї + recursive, Ђрекурсивныйї) Ч удали папку second-project и всЄ, что она содержит.
 
-[—сылка на дополнительное видео по Git(https://www.youtube.com/watch?v=dQw4w9WgXcQ "Ќажми мен€")
+[—сылка на дополнительное видео по Git](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Ќажми мен€")
+=======
+
+>>>>>>> 710d86b7ca8ba2ace3734e23ad61065781ed4c18
