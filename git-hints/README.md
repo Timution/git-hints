@@ -9,12 +9,10 @@
 * cd / Ч перейди в корневую директорию.
 # –абота с файлами и папками
 ## —оздание
----
 * touch index.html (англ. touch, Ђкоснутьс€ї) Ч создай файл index.html в текущей папке;
 * touch index.html style.css script.js Ч если нужно создать сразу несколько файлов, можно напечатать их имена в одну строку через пробел;
 * mkdir second-project (от англ. make directory, Ђсоздать директориюї) Ч создай папку с именем second-project в текущей папке.
 ##  опирование и перемещение
----
 * cp file.txt ~/my-dir (от англ. copy, Ђкопироватьї) Ч скопируй файл в другое место;
 * mv file.txt ~/my-dir (от англ. move, Ђпереместитьї) Ч перемести файл или папку в другое место.
 ## „тение
@@ -24,4 +22,4 @@
 * rmdir images (от англ. remove directory, Ђудалить директориюї) Ч удали папку images;
 * rm -r second-project (от англ. remove, Ђудалитьї + recursive, Ђрекурсивныйї) Ч удали папку second-project и всЄ, что она содержит.
 
-[—сылка на дополнительное видео по Git] (https://www.youtube.com/watch?v=dQw4w9WgXcQ "Ќажми мен€")
+[—сылка на дополнительное видео по Git(https://www.youtube.com/watch?v=dQw4w9WgXcQ "Ќажми мен€")
