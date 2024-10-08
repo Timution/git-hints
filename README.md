@@ -24,4 +24,4 @@
 * rmdir images (от англ. remove directory, «удалить директорию») — удали папку images;
 * rm -r second-project (от англ. remove, «удалить» + recursive, «рекурсивный») — удали папку second-project и всё, что она содержит.
 
-[Ссылка на дополнительное видео по Git] (https://www.youtube.com/watch?v=dQw4w9WgXcQ "Нажми меня")
+[Ссылка на дополнительное видео по Git](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Нажми меня")
